@@ -89,6 +89,7 @@ For emulating 3D systems.
   - [GTK](https://www.gtk.org/)
   - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear): Single header C immediate mode GUI library
   - [WxWidgets](https://www.wxwidgets.org/)
+  - [Gum](http://gumui.net/): A very versatile GUI framework that offers a lot of features and has a great community.
 
 - Runtime code generation (emitter) libraries for use in JITs and assemblers:
   - [Xbyak](https://github.com/herumi/xbyak): Single header C++ x86-32 and x86-64 emitter
